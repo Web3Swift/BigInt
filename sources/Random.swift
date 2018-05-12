@@ -38,7 +38,7 @@ extension BigUInt {
         }
         defer {
             buffer.deinitialize(count: byteCount)
-            buffer.deallocate(capacity: byteCount)
+            buffer.deallocate()
         }
         return BigUInt(Data(bytesNoCopy: buffer, count: byteCount, deallocator: .none))
     }

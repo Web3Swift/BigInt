@@ -223,18 +223,18 @@ extension BigInt: CustomStringConvertible {
     }
 }
 
-extension BigUInt: CustomPlaygroundQuickLookable {
-    /// Return the playground quick look representation of this integer.
-    public var customPlaygroundQuickLook: PlaygroundQuickLook {
-        let text = String(self)
-        return PlaygroundQuickLook.text(text + " (\(self.bitWidth) bits)")
-    }
-}
-
-extension BigInt: CustomPlaygroundQuickLookable {
-    /// Return the playground quick look representation of this integer.
-    public var customPlaygroundQuickLook: PlaygroundQuickLook {
-        let text = String(self)
-        return PlaygroundQuickLook.text(text + " (\(self.magnitude.bitWidth) bits)")
-    }
-}
+//extension BigUInt: CustomPlaygroundQuickLookable {
+//    /// Return the playground quick look representation of this integer.
+//    public var customPlaygroundQuickLook: PlaygroundQuickLook {
+//        let text = String(self)
+//        return PlaygroundQuickLook.text(text + " (\(self.bitWidth) bits)")
+//    }
+//}
+//
+//extension BigInt: CustomPlaygroundQuickLookable {
+//    /// Return the playground quick look representation of this integer.
+//    public var customPlaygroundQuickLook: PlaygroundQuickLook {
+//        let text = String(self)
+//        return PlaygroundQuickLook.text(text + " (\(self.magnitude.bitWidth) bits)")
+//    }
+//}
