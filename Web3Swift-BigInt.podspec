@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |spec|
-    spec.name         = 'Web3Swift/BigInt'
+    spec.name         = 'Web3Swift-BigInt'
     spec.version      = '3.0.2'
     spec.ios.deployment_target = "8.0"
     spec.osx.deployment_target = "10.9"
@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
     spec.source_files = 'sources/*.swift'
     spec.social_media_url = 'https://twitter.com/lorentey'
     spec.documentation_url = 'http://attaswift.github.io/BigInt/'
-    spec.dependency 'Web3Swift/SipHash', '~> 1.2'
+    spec.dependency 'Web3Swift-SipHash', '~> 1.2'
 end
