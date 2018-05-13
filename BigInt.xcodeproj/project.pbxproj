@@ -158,7 +158,7 @@
 
 /* Begin PBXFileReference section */
 		BB241BC51DD9F6490067F917 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
-		BB241BC71DD9F7D60067F917 /* BigInt.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; path = BigInt.podspec; sourceTree = "<group>"; };
+		BB241BC71DD9F7D60067F917 /* Web3Swift-BigInt.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; path = "Web3Swift-BigInt.podspec"; sourceTree = "<group>"; };
 		BB241C2F1DDB70600067F917 /* BigInt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BigInt.swift; sourceTree = "<group>"; };
 		BB241C301DDB70600067F917 /* Addition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Addition.swift; sourceTree = "<group>"; };
 		BB241C311DDB70600067F917 /* Bitwise Ops.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bitwise Ops.swift"; sourceTree = "<group>"; };
@@ -305,7 +305,7 @@
 				BBB55B1D1C8F9E850050DDA9 /* LICENSE.md */,
 				BB241CE81DDB7B620067F917 /* CHANGELOG.md */,
 				BB241BC51DD9F6490067F917 /* Package.swift */,
-				BB241BC71DD9F7D60067F917 /* BigInt.podspec */,
+				BB241BC71DD9F7D60067F917 /* Web3Swift-BigInt.podspec */,
 				BB241CEB1DDB7B620067F917 /* Cartfile */,
 				BBB55B1C1C8F90F60050DDA9 /* .travis.yml */,
 				BB241CF01DDB84210067F917 /* .codecov.yml */,
