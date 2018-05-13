@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c79c06a-393e-46e1-a146-e61468adadf3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BigInt.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/BigInt.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigInt.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/BigInt.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigInt.xcodeproj/xcshareddata/xcschemes/BigInt Benchmark.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/BigInt.xcodeproj/xcshareddata/xcschemes/BigInt Benchmark.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigInt.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/BigInt.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cartfile" beforeDir="false" afterPath="$PROJECT_DIR$/Cartfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cartfile.resolved" beforeDir="false" afterPath="$PROJECT_DIR$/Cartfile.resolved" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/BigInt.swift" beforeDir="false" afterPath="$PROJECT_DIR$/sources/BigInt.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/Hashable.swift" beforeDir="false" afterPath="$PROJECT_DIR$/sources/Hashable.swift" afterDir="false" />
-    </list>
+    <list default="true" id="5c79c06a-393e-46e1-a146-e61468adadf3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/sources/Hashable.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
+              <caret line="8" column="3" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -161,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526127444356</updated>
-      <workItem from="1526127447211" duration="2219000" />
+      <workItem from="1526127447211" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2219000" />
+    <option name="totallyTimeSpent" value="2456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="0" />
@@ -231,7 +222,7 @@
     <entry file="file://$PROJECT_DIR$/sources/Hashable.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
+          <caret line="8" column="3" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
